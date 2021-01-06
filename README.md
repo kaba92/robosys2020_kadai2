@@ -32,4 +32,4 @@ twice.py　https://github.com/kaba92/robosys2020_kadai2/blob/main/scripts/twice.
 ライセンス　https://github.com/kaba92/robosys2020_kadai2/blob/main/LICENSE
 
 
-実行したときの動画
+実行したときの動画　https://www.youtube.com/watch?v=swUd-xrw934
