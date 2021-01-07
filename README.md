@@ -1,5 +1,6 @@
 # robosys2020_kadai2
 ロボットシステム学の第2回目の課題です。第10回目に作成したROSのパッケージに一桁の素数(2,3,5,7)の倍数があるのかを表示するプログラムを加えました。
+2の倍数だと2,3の倍数だと3,5の倍数だと5,7の倍数だと7と表示します。
 
 
 パブリッシャ
@@ -9,6 +10,10 @@ count.py　https://github.com/kaba92/robosys2020_kadai2/blob/main/scripts/count.
 サブスクライバ
 
 twice.py　https://github.com/kaba92/robosys2020_kadai2/blob/main/scripts/twice.py
+
+使用したミドルウェア
+
+・ROS
 
 使用したOS
 
