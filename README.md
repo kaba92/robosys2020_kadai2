@@ -22,7 +22,8 @@ twice.py　https://github.com/kaba92/robosys2020_kadai2/blob/main/scripts/twice.
 
 ・端末を3つ用意する。
 
-・一つ目の端末に「roscore」と入力する。
+・一つ目の端末に以下のコマンドを入力する。
+ `roscore`
 
 ・二つ目の端末に「chmod +x count.py」、「rosrun mypkg count.py」の順に入力し、count.pyを実行する。
 
